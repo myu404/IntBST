@@ -16,7 +16,7 @@ namespace IntBST
     class IntSearchTree
     {
         // Field
-        public IntTreeNode root { get; private set; };
+        public IntTreeNode root { get; private set; }
 
         // Constructor
         public IntSearchTree() { root = null; }

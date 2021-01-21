@@ -1,0 +1,7 @@
+C:\Users\Mikey\git\SDDE\01_AlgorDataStruct\IntBST\IntBST\obj\Debug\IntBST.csprojAssemblyReference.cache
+C:\Users\Mikey\git\SDDE\01_AlgorDataStruct\IntBST\IntBST\obj\Debug\IntBST.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\git\SDDE\01_AlgorDataStruct\IntBST\IntBST\bin\Debug\IntBST.exe.config
+C:\Users\Mikey\git\SDDE\01_AlgorDataStruct\IntBST\IntBST\bin\Debug\IntBST.exe
+C:\Users\Mikey\git\SDDE\01_AlgorDataStruct\IntBST\IntBST\bin\Debug\IntBST.pdb
+C:\Users\Mikey\git\SDDE\01_AlgorDataStruct\IntBST\IntBST\obj\Debug\IntBST.exe
+C:\Users\Mikey\git\SDDE\01_AlgorDataStruct\IntBST\IntBST\obj\Debug\IntBST.pdb
